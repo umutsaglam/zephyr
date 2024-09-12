@@ -1,6 +1,6 @@
 # Zephyr: Multi-Vulnerability Scanner
 
-![Screenshot_3](https://github.com/user-attachments/assets/c7d74e6f-69c7-4a9a-93ff-ea5a46c5fca6)
+![Screenshot_3](https://github.com/user-attachments/assets/29fe8ecc-3904-4d2f-8912-64ff82c3e928)
 
 **Zephyr** is a powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS). This tool was created by **solidsec**.
 
